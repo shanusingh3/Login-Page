@@ -1,0 +1,15 @@
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\bin\iPhoneSimulator\Debug\EventApp.exe
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\bin\iPhoneSimulator\Debug\EventApp.pdb
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\optimized\Images\Logo.png
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\optimized\Images\Mail.png
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\optimized\Images\Circle.png
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\EventApp.csprojAssemblyReference.cache
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\EventApp.csproj.CoreCompileInputs.cache
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\EventApp.exe
+C:\Users\Shanu Singh\Downloads\EventApp\EventApp\EventApp\obj\iPhoneSimulator\Debug\EventApp.pdb

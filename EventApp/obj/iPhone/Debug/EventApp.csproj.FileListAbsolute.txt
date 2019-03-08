@@ -1,0 +1,12 @@
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\bin\iPhone\Debug\EventApp.exe
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\bin\iPhone\Debug\EventApp.pdb
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\optimized\Images\Logo.png
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\optimized\
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\EventApp.csproj.CoreCompileInputs.cache
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\EventApp.exe
+C:\Users\Shanu Singh\source\repos\EventApp\EventApp\obj\iPhone\Debug\EventApp.pdb
